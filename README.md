@@ -1,5 +1,5 @@
 # OnFeedDotMe (v 1.0)
-Creado por [José Manuel Suárez Tocino](https://github.com/josemanuelsuareztocino-1998)
+Creado por [José Manuel Suárez Tocino](https://josemanuelsuareztocino-1998.github.io/josemanuelsuareztocino-1998/)
 
 Actualizado por última vez el 20 de abril de 2025.
 
